@@ -1,17 +1,14 @@
-##JAVA
-1.Write a java program to sum, multiply, subtract, divide and remainder of two numbers.
- ![image](https://user-images.githubusercontent.com/94219798/224467425-c8dffdc5-8ab7-4c03-9153-e6d5a8e4e5a4.png)
+## JAVA
+### 1.Write a java program to sum, multiply, subtract, divide and remainder of two numbers.
+![image](https://user-images.githubusercontent.com/94219798/224467425-c8dffdc5-8ab7-4c03-9153-e6d5a8e4e5a4.png)
+### OUTPUT:
+![image](https://user-images.githubusercontent.com/94219798/224467439-a7a7b8a8-e81c-4e42-b5cd-059f1b780c70.png)
 
-OUTPUT:
- ![image](https://user-images.githubusercontent.com/94219798/224467439-a7a7b8a8-e81c-4e42-b5cd-059f1b780c70.png)
 
-
-2.Write a java program to compare two numbers.
- ![image](https://user-images.githubusercontent.com/94219798/224467442-e4fd6c3e-96cc-4409-94f0-8a484dae3800.png)
-
-OUTPUT:
-
- ![image](https://user-images.githubusercontent.com/94219798/224467446-5bcbc86d-c0fd-4bdf-8b23-8aafe691c46c.png)
+### 2.Write a java program to compare two numbers.
+![image](https://user-images.githubusercontent.com/94219798/224467442-e4fd6c3e-96cc-4409-94f0-8a484dae3800.png)
+### OUTPUT:
+![image](https://user-images.githubusercontent.com/94219798/224467446-5bcbc86d-c0fd-4bdf-8b23-8aafe691c46c.png)
 
 
 3.Write a java program to convert a string into an integer.
